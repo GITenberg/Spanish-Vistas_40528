@@ -1,0 +1,41 @@
+_repo: Spanish-Vistas_40528
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Reinhart, Charles Stanley
+    aliases:
+    - Reinhart, C. S. (Charles Stanley)
+    - Reinhart, Charles S.
+    birthdate: 1844
+    deathdate: 1896
+    gutenberg_agent_id: '31538'
+    url: http://www.gutenberg.org/2009/agents/31538
+covers:
+- cover_type: archival
+  image_path: 40528-h/images/cover_lg.jpg
+creator:
+  author:
+    agent_name: Lathrop, George Parsons
+    birthdate: 1851
+    deathdate: 1898
+    gutenberg_agent_id: '2341'
+    url: http://www.gutenberg.org/2009/agents/2341
+    wikipedia: http://en.wikipedia.org/wiki/George_Parsons_Lathrop
+description: ''
+gutenberg_issued: '2012-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40528'
+  lccn: '04025755'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DP'
+- !lcsh 'Spain -- Description and travel'
+tableOfContents: From Burgos to the Gate of the Sun  -- The lost city -- Cordovan
+  pilgrims -- Andalusia and the Alhambra -- Mediterranean ports and gardens -- Hints
+  to travellers.
+title: Spanish Vistas
+url: http://www.gutenberg.org/ebooks/40528
